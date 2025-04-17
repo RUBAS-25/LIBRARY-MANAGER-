@@ -1,0 +1,9 @@
+[
+    {
+        "title": "THE KITE RUNNER",
+        "author": "KHALED HOSAINE",
+        "year": 2003,
+        "genre": "NOVEL",
+        "read": true
+    }
+]
